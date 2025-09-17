@@ -1,0 +1,17 @@
+/*agregar fuente*/
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+*{
+margin:0;
+padding: 0%;
+box-sizing: border-box;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+#inicio{
+    background: linear-gradient(rgba(0,0,0,.7)),linear-gradient(rgba(0,0,0,.7)),url(../assest/software\ image.webp);
+    background-size: cover;
+    background-position: center center;
+    height: 1000vh;
+}
